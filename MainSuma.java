@@ -8,7 +8,8 @@ public class MainSuma{
         System.out.println("Ingrese el segundo numero");
         int b=n1.nextInt();
         int r=a+b;
-        System.out.println(r);
+        System.out.println("El resultado es:"+r);
+        
         
     }
 }
