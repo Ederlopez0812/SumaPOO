@@ -1,10 +1,9 @@
 
 public class Suma{
     private int a,b,r;
-    public int sumar(int a, int b){
+    public   int Sumar(){
         r=this.a +this.b;
-        return r;
-        
+       return r;
     }
     public int getA() {
         return a;
