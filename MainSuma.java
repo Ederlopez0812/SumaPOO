@@ -9,7 +9,7 @@ public class MainSuma{
         int b=n1.nextInt();
         int r=a+b;
         System.out.println("El resultado es:"+r);
-        
+        System.out.println(n1.toString());
         
     }
 }
